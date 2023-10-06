@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Adapters</string>
+    <string name="adapters">pr18</string>
+    <string name="add_record">Добавить запись</string>
+    <string name="delete_record">Удалить запись</string>
+    <string name="box">Корзина</string>
+</resources>
